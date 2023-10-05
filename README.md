@@ -22,12 +22,12 @@ Atualmente vejo um pouco de cada, sempre tentando aprender algo novo, no quesito
 
 É um ambiente muito vasto acabo me interessando por alguma coisa nova do nada...
 
-- Backend `:file_folder:`
-- Redes `:signal_strength:`
-- Cibersegurança `:lock:`
-- Sysadmin `:computer:`
-- Montagem de equipamentos `:wrench:`
-- Linux e suas certificações `:penguin:`
+- Backend :file_folder:
+- Redes :signal_strength:
+- Cibersegurança :lock:
+- Sysadmin :computer:
+- Montagem de equipamentos :wrench:
+- Linux e suas certificações :penguin:
   
 ## Planos Futuros
 
